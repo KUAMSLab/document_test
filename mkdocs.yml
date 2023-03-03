@@ -8,3 +8,6 @@ repo_name: KUAMSLabdocument_test
 repo_url: https://github.com/KUAMSLab/document_test
 edit_uri: ''
 docs_dir: docs
+
+theme:
+  name: material
